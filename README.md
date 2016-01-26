@@ -24,6 +24,11 @@ mvn clean test
 
 - Used Mockito framework to mock HtmlPage, so tests load pages from local resource files instead of accessing Internet.
 
+- Used HtmlUnit framework to browse the page, which has fairly good JavaScript support. Also, used XPath query to find the html elements we need.
+
+- Used the BDD style test to cover the whole use case and used unit tests to test particular methods. 
+- 
+
 ## Feedback and comments
 
 Welcome to any feedback and comments. Please email **Patrick Zhang** **pzcareer@gmail.com**.
