@@ -27,7 +27,7 @@ mvn clean test
 - Used HtmlUnit framework to browse the page, which has fairly good JavaScript support. Also, used XPath query to find the html elements we need.
 
 - Used the BDD style test to cover the whole use case and used unit tests to test particular methods. 
-- 
+
 
 ## Feedback and comments
 
