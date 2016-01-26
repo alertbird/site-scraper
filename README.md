@@ -5,13 +5,13 @@ This is a console application that scrapes the Sainsbury’s grocery site - Ripe
 ## How to run the app
 
 Go to the project folder and execute the following command:
-
+```
 mvn clean package -DskipTests=true && java -jar target/site-scraper-0.0.1-SNAPSHOT.jar
-
+```
 ## How to run tests
-
+```
 mvn clean test
-
+```
 ## About my implementation 
 
 - A log file called SiteScraperApp.log is created in target folder 
