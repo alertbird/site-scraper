@@ -28,8 +28,3 @@ mvn clean test
 
 - Used the BDD style test to cover the whole use case and used unit tests to test particular methods. 
 
-
-## Feedback and comments
-
-Welcome to any feedback and comments. Please email **Patrick Zhang** **pzcareer@gmail.com**.
-
